@@ -14,7 +14,7 @@ const toggleLocales = () => {
 <template>
   <nav class="text-xl mt-6">
     <router-link class="icon-btn mx-2" to="/" :title="t('button.home')">
-      <carbon-campsite />
+      <carbon:code />
     </router-link>
 
     <button class="icon-btn mx-2 !outline-none" :title="t('button.toggle_dark')" @click="toggleDark()">
@@ -30,8 +30,11 @@ const toggleLocales = () => {
       <carbon-dicom-overlay />
     </router-link>
 
-    <router-link class="icon-btn mx-2" to="/kasa" :title="t('button.kasa')">
+    <!-- <router-link class="icon-btn mx-2" to="/kasa" :title="t('button.kasa')">
       <mdi:square-inc-cash />
-    </router-link>
+    </router-link> -->
   </nav>
+  <p class="mt-4">
+    <em class="text-sm text-orange-600 opacity-75">{{ t('stopka') }}</em>
+  </p>
 </template>

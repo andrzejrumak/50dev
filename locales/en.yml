@@ -8,8 +8,9 @@ button:
   toggle_langs: Change languages
 intro:
   aka: Also known as
-  desc: Opinionated Vite Starter Template
+  desc: space for mature developers
   dynamic-route: Demo of dynamic route
   hi: Hi, {name}!
   whats-your-name: What's your name?
 not-found: Not found
+stopka: 50p.dev 2021 copyright

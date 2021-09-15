@@ -81,7 +81,7 @@ export default defineConfig({
     Markdown({
       wrapperClasses: markdownWrapperClasses,
       headEnabled: true,
-      markdownItSetup(md) {
+      markdownItSetup (md) {
         // https://prismjs.com/
         md.use(Prism)
         md.use(LinkAttributes, {
@@ -97,11 +97,11 @@ export default defineConfig({
     // https://github.com/antfu/vite-plugin-pwa
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg', 'robots.txt', 'safari-pinned-tab.svg'],
+      includeAssets: ['favicon.ico', 'robots.txt', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'Vitesse',
-        short_name: 'Vitesse',
-        theme_color: '#ffffff',
+        name: '50plus.dev',
+        short_name: '50p.dev',
+        theme_color: '#C76B13',
         icons: [
           {
             src: '/pwa-192x192.png',
