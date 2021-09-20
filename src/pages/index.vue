@@ -19,5 +19,8 @@ const { t } = useI18n()
     <p class="mt-3">
       <em class="text-sm opacity-75">{{ t('intro.desc') }}</em>
     </p>
+    <div class="text-sm m-3">
+      {{ t('intro.discription_50p') }}
+    </div>
   </div>
 </template>
