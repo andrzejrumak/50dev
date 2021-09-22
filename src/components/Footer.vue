@@ -15,6 +15,10 @@ const goAbout = () => {
   if (locale.value)
     router.push(`/locales/${encodeURIComponent(locale.value)}/about`)
 }
+const goDiary = () => {
+  if (locale.value)
+    router.push(`/locales/${encodeURIComponent(locale.value)}/diary`)
+}
 </script>
 
 <template>
@@ -33,6 +37,10 @@ const goAbout = () => {
     </a>
     <button class="icon-btn mx-2 !outline-none" @click="goAbout">
       <carbon-dicom-overlay />
+    </button>
+
+    <button class="icon-btn mx-2 !outline-none" @click="goDiary">
+      <uil:diary />
     </button>
 
     <!-- <router-link class="icon-btn mx-2" to="/locales/{{locale}}/about" :title="t('button.about')">

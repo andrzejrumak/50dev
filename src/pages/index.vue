@@ -16,5 +16,8 @@ const { t } = useI18n()
     <div class="text-sm m-3">
       {{ t('intro.discription_50p') }}
     </div>
+    <div class="text-orange-600 text-2xl m-3 mt-5">
+      {{ t('intro.note') }}
+    </div>
   </div>
 </template>

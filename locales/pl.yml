@@ -8,7 +8,7 @@ button:
 intro:
   desc: przestrzeń dla dojrzałych programistów
   discription_50p: Właśnie skończyłem 50 lat. Pamiętam moje pierwsze kroki w korzystaniu z komputera. Był to komputer ATARI 130 XE bez stacji dysków bez dostępu do internetu, podłączzny do telewizora. Tylko klawiatura i załączona instrukcja obsługi zawierająca podstawy jezyka BASIC i kilka przykładów do wpisania i uruchomienia. Ile radości sprawiało gdy wpisany skrypt po uruchomieniu działał ale niestety znikał wraz z wyłączeniem ATARI. Ko to pamięta? Dziś programowanie wygląda całkiem inaczej, choć wiele zasad ciągle jest aktualnych. Tworzę tą przestrzeń by przedstawić się jako w miarę dojrzały człowiek ale i na nowo zaczynający swoją przygodę programista oraz publikować pomocne materiały z perspektywy takiego człowieka. ZAPRASZAM
-
+  note: Uwaga wkrótce post - Dlaczego czekam na NUXT3 ?
   dynamic-route: prezentacja dynamicznych adesów
   hi: Cześć, {name}!
   whats-your-name: Jak masz na imię?
