@@ -19,10 +19,15 @@ const goDiary = () => {
   if (locale.value)
     router.push(`/locales/${encodeURIComponent(locale.value)}/diary`)
 }
+
+const goPortfolio = () => {
+  if (locale.value)
+    router.push(`/locales/${encodeURIComponent(locale.value)}/portfolio`)
+}
 </script>
 
 <template>
-  <nav class="text-xl mt-6">
+  <nav class="text-xl mt-6 sticky">
     <router-link class="icon-btn mx-2" to="/" :title="t('button.home')">
       <carbon:code />
     </router-link>
@@ -41,6 +46,9 @@ const goDiary = () => {
 
     <button class="icon-btn mx-2 !outline-none" @click="goDiary">
       <uil:diary />
+    </button>
+    <button class="icon-btn mx-2 !outline-none" @click="goPortfolio">
+      <carbon:portfolio />
     </button>
 
     <!-- <router-link class="icon-btn mx-2" to="/locales/{{locale}}/about" :title="t('button.about')">

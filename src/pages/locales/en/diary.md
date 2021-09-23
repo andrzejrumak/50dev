@@ -4,10 +4,24 @@ title: Diary
 
 <div class="text-center">
   <!-- You can use Vue components inside markdown -->
-  <carbon-dicom-overlay class="text-orange-600 text-4xl -mb-6 m-auto" />
+  <uil:diary  class="text-orange-600 text-4xl -mb-6 m-auto" />
   <h3>50p.dev Diary</h3>
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
+
+      23.09.2021
+      
+
+- [Jak rozgryźć istniejący projekt? ⌨️ hello roman #167](https://youtu.be/xksbwionW9M)
+
+- Continuation of the ANF course - Error handling
+
+- 50p.dev - /portfolio  - is added with multilanguage
+
+- 50p.dev - Using Components in VUE 3 script setup with .md files - learnt
+
+
+---
 
       22.09.2021
 - NuxtNation conference - Day 2 - Using Notion as a CMS with Nuxt on netlify - Ben Hong
