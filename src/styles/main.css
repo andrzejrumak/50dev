@@ -41,3 +41,8 @@ html.dark {
     hover:opacity-100 hover:text-orange-600;
   font-size: 0.9em;
 }
+
+.sticky {
+  position: sticky;
+  position: -webkit-sticky;
+}

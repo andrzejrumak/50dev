@@ -27,7 +27,7 @@ const goPortfolio = () => {
 </script>
 
 <template>
-  <nav class="text-xl mt-6 sticky">
+  <nav class=" bg-gray-800 text-xl p-1 mt-6 sticky bottom-0">
     <router-link class="icon-btn mx-2" to="/" :title="t('button.home')">
       <carbon:code />
     </router-link>
@@ -39,6 +39,9 @@ const goPortfolio = () => {
 
     <a class="icon-btn mx-2" :title="t('button.toggle_langs')" @click="toggleLocales">
       <carbon-language />
+    </a>
+    <a class=" text-green-500 text-center h5">
+      {{ locale }}
     </a>
     <button class="icon-btn mx-2 !outline-none" @click="goAbout">
       <carbon-dicom-overlay />
@@ -54,10 +57,6 @@ const goPortfolio = () => {
     <!-- <router-link class="icon-btn mx-2" to="/locales/{{locale}}/about" :title="t('button.about')">
       <carbon-dicom-overlay />
     </router-link> -->
-    <div class="p text-green-500">
-      {{ locale }}
-    </div>
-
     <!-- <router-link class="icon-btn mx-2" to="/kasa" :title="t('button.kasa')">
       <mdi:square-inc-cash />
     </router-link> -->
