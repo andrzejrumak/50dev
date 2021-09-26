@@ -9,6 +9,28 @@ title: Diary
   <h4>Dziennik w którym zapisuje codzienną mą wędrówkę w samokształceniu się w programowaniu.</h4>
 </div>
 
+
+    26.09.2021
+
+- [Kontynuacja kursu ANF - obsługa błędów](https://architekturanafroncie.pl/)
+- 50p.dev navbar - zmiana tła na białe w light mode
+
+
+----
+
+    25.09.2021
+
+- [Początek kursu o animacji w VUE] (https://www.vuemastery.com/courses/animating-vue/why-animate/)  
+
+- 50p.dev - navbar przytwierdzony do dołu strony
+
+----
+
+      24.09.2021
+
+- [Lightning Fast Builds with Vite - VueMastery Course ](https://www.vuemastery.com/courses/lightning-fast-builds-with-vite/moving-to-vite) - [my repo](https://github.com/andrzejrumak/Vite-course-by-Evan-You-repo)
+
+
 ----
 
       23.09.2021

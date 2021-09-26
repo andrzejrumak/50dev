@@ -27,7 +27,7 @@ const goPortfolio = () => {
 </script>
 
 <template>
-  <nav class=" bg-gray-800 text-xl p-1 mt-6 sticky bottom-0">
+  <nav class=" dark:bg-gray-800 bg-white text-xl p-1 mt-6 sticky bottom-0">
     <router-link class="icon-btn mx-2" to="/" :title="t('button.home')">
       <carbon:code />
     </router-link>

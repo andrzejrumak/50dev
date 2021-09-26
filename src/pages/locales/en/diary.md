@@ -9,6 +9,31 @@ title: Diary
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
 
+
+
+      26.09.2021
+
+- [- Continuation of the ANF course - Error handling](https://architekturanafroncie.pl/)
+- 50p.dev navbar - white backround color in light mode
+
+
+----
+
+      25.09.2021
+
+- [VUE animation course - begining] (https://www.vuemastery.com/courses/animating-vue/why-animate/)  
+
+- 50p.dev - navbar sticky to bottom page
+
+----
+
+      24.09.2021
+
+- [Lightning Fast Builds with Vite Course](https://www.vuemastery.com/courses/lightning-fast-builds-with-vite/moving-to-vite) - [my repo](https://github.com/andrzejrumak/Vite-course-by-Evan-You-repo)
+
+
+---
+
       23.09.2021
       
 
@@ -49,4 +74,4 @@ Vue Core Team
 
   - NuxtNation conference - Day 2 - State of Vue.js Live FAQ - Evan You Creator of Vue.js
 
-  - 50p.dev - /diary  - is added with multilanguage
+  - 50p.dev - /diary  - is added with multilanguage 

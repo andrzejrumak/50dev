@@ -9,9 +9,17 @@ title: Portfolio
   <h4>Publication of completed projects, courses taken, experience - SMOMETHING LIKE CV, PORTFOLIO</h4>
 </div>
 
-## PROJECTS
+### PROJECTS
 
-## COURSES
+[RiA App for android - nativescript front](https://play.google.com/store/apps/details?id=org.nativescript.vue.ria&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-## SKILLS LEARNED
+[GreenShop App for android - nativescript front](https://play.google.com/store/apps/details?id=pl.shop.green.app)
+
+### COURSES
+
+- soon
+
+### SKILLS LEARNED
+- soon
+
 

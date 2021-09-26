@@ -9,9 +9,17 @@ title: Portfolio
   <h4>Publikacja wykonanych projektów, odbytych kursów, doświadczenia - takie CV, PORTFOLIO</h4>
 </div>
 
-## PROJEKTY
+### PROJEKTY
 
-## KURSY
+[RiA App for android - nativescript front](https://play.google.com/store/apps/details?id=org.nativescript.vue.ria&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-## NABYTE UMIEJĘTNOŚCI
+[GreenShop App for android - nativescript front](https://play.google.com/store/apps/details?id=pl.shop.green.app)
+
+### KURSY
+
+- wkrótce
+
+### NABYTE UMIEJĘTNOŚCI
+
+- wkrótce
 
