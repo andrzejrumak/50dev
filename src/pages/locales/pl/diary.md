@@ -36,7 +36,7 @@ title: Diary
       23.09.2021
       
 
-- [Jak rozgryźć istniejący projekt? ⌨️ hello roman #167](https://youtu.be/xksbwionW9M) - wgryzienie się w aplikację w react stworzoną na potrzeby kursu
+- [Jak rozgryźć istniejący projekt? - hello roman #167](https://youtu.be/xksbwionW9M) - wgryzienie się w aplikację w react stworzoną na potrzeby kursu
 
 - kontynuacja kursu ANF - obsługa błędów
 
