@@ -9,12 +9,23 @@ title: Diary
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
 
+    30.09.2021
+
+
+- [Continuation of the ANF course - Cypress and Puppeteer](https://architekturanafroncie.pl/)
+
+- [AdonisJS - #9 Slugify](https://youtu.be/9tRFiroCobA)
+- [AdonisJS - #10 New post creation form](hhttps://youtu.be/2MUI_7h9Spg)
+
+
+----
+
     29.09.2021
 
 
 - [Continuation of the ANF course - E2E tests](https://architekturanafroncie.pl/)
 
- [AdonisJS - #8 Dynamic parameters, post view](https://youtu.be/_QiXk5LKBm4)
+- [AdonisJS - #8 Dynamic parameters, post view](https://youtu.be/_QiXk5LKBm4)
 
 
 ----

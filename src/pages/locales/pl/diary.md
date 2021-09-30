@@ -10,6 +10,18 @@ title: Diary
 </div>
 
 
+
+    30.09.2021
+
+- [Kontynuacja kursu ANF - Cypress and Puppeteer](https://architekturanafroncie.pl/)
+- [AdonisJS - #9 Slugify](https://youtu.be/9tRFiroCobA)
+- [AdonisJS - 10 Formularz tworzenia nowego wpisu](https://youtu.be/9tRFiroCobA)
+
+
+
+----
+
+
     29.09.2021
 
 - [Kontynuacja kursu ANF - E2E testing](https://architekturanafroncie.pl/)

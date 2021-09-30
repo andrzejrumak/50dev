@@ -17,7 +17,16 @@ title: Portfolio
 
 ### COURSES
 
-- soon
+- [TypeScript Course](https://platforma.strefakursow.pl/p/certificate/hash/te3xsootqj4800gsk8wwks4ccw0s4og)
+
+- [Vue.js - Best practise](https://www.udemy.com/certificate/UC-5c311cad-8c14-4b54-9d7d-b2d41031079e/)
+
+
+- [ES6 new generation JavaScript](https://platforma.strefakursow.pl/p/certificate/hash/8glmo4qkdr0gw8c48c40skg0w0scccs)
+
+- [Node.js - dynamic application](https://platforma.strefakursow.pl/p/certificate/hash/b6x2s942gkoogogksgwgg8gwo44okk4)
+
+- [Master Laravel with Vue.js Fulstack Development](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f3b6c734-6816-4d17-bd4a-36fb932cd764.pdf) repo, app
 
 ### SKILLS LEARNED
 - soon
