@@ -9,11 +9,38 @@ title: Diary
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
 
+    29.09.2021
 
+
+- [Continuation of the ANF course - E2E tests](https://architekturanafroncie.pl/)
+
+ [AdonisJS - #8 Dynamic parameters, post view](https://youtu.be/_QiXk5LKBm4)
+
+
+----
+
+    28.09.2021
+
+
+- [Continuation of the ANF course - chaos engineering](https://architekturanafroncie.pl/)
+- [AdonisJS - #7 Edge](https://youtu.be/WuD5uIkT3cI)
+
+
+
+----
+
+    27.09.2021
+
+- [Continuation of the ANF course - Error logs](https://architekturanafroncie.pl/)
+- [AdonisJS - #6 CLaravel-Mix, TailwindCSS, AlpineJS](https://youtu.be/_Lja1hOS7vw)
+
+
+
+----
 
       26.09.2021
 
-- [- Continuation of the ANF course - Error handling](https://architekturanafroncie.pl/)
+- [Continuation of the ANF course - Error handling](https://architekturanafroncie.pl/)
 - 50p.dev navbar - white backround color in light mode
 
 

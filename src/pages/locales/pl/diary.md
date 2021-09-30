@@ -10,6 +10,35 @@ title: Diary
 </div>
 
 
+    29.09.2021
+
+- [Kontynuacja kursu ANF - E2E testing](https://architekturanafroncie.pl/)
+- [AdonisJS - #8 Dynamiczne parametry, widok wpisu](https://youtu.be/_QiXk5LKBm4)
+
+
+
+
+----
+
+    28.09.2021
+
+- [Kontynuacja kursu ANF - inzynieria chaosu](https://architekturanafroncie.pl/)
+- [Kurs AdonisJS - #7 Szablony edge](https://youtu.be/WuD5uIkT3cI)
+
+
+
+----
+
+    27.09.2021
+
+- [Kontynuacja kursu ANF - logi błędów](https://architekturanafroncie.pl/)
+- [Kurs AdonisJS - #6 CLaravel-Mix, TailwindCSS, AlpineJS](https://youtu.be/_Lja1hOS7vw)
+
+
+
+----
+
+
     26.09.2021
 
 - [Kontynuacja kursu ANF - obsługa błędów](https://architekturanafroncie.pl/)
