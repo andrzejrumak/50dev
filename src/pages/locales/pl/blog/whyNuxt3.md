@@ -7,7 +7,7 @@ title: Dlaczego Nuxt 3
 
     
 <img class="animate-pulse" src="/Nuxt-js.png" alt="Nuxtlogo" style="height: 100px; width:100px;"/>
-
+<!-- <logos:nuxt-icon />  -->
 
 # Dlaczego czekam na Nuxt3 ?
 Trzecia odsłona fameworka Nuxt oczekiwana jest juz od ponad roku. Czy warto czekać?

@@ -5,7 +5,8 @@ title: Why Nuxt 3
     01.10.2021
 
     
-<img src="/Nuxt-js.png" alt="Nuxtlogo" style="height: 100px; width:100px;"/>
+<img class="animate-pulse" src="/Nuxt-js.png" alt="Nuxtlogo" style="height: 100px; width:100px;"/>
+
 
  
 

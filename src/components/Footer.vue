@@ -63,9 +63,9 @@ const router = useRouter()
     <router-link class="icon-btn mx-2" to="/portfolio" :title="t('button.about')">
       <carbon:portfolio />
     </router-link>
-    <!-- <router-link class="icon-btn mx-2" to="/kasa" :title="t('button.kasa')">
-      <mdi:square-inc-cash />
-    </router-link> -->
+    <router-link class="icon-btn mx-2" to="/playground" :title="t('button.kasa')">
+      <map:playground />
+    </router-link>
   </nav>
   <p class="mt-4">
     <em class="text-sm text-orange-600 opacity-75">{{ t('stopka') }}</em>
