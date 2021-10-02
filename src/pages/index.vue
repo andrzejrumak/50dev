@@ -13,7 +13,7 @@ const { t, locale } = useI18n()
 <template>
   <div class="flex justify-center ">
     <div class="md:w-2/3 ">
-      <img class="object-none h-30 w-full my-6 mb-8" src="/50p.png">
+      <img class="object-none h-30 w-full my-6 mb-8 hover:animate-pulse" src="/50p.png">
       <p class="mb-8">
         <em class="text-md opacity-75">{{ t('intro.desc') }}</em>
       </p>

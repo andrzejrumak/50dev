@@ -6,11 +6,11 @@ title: Dlaczego Nuxt 3
 
 
     
-<img src="/Nuxt-js.png" alt="Nuxtlogo" style="height: 100px; width:100px;"/>
+<img class="animate-pulse" src="/Nuxt-js.png" alt="Nuxtlogo" style="height: 100px; width:100px;"/>
 
 
 # Dlaczego czekam na Nuxt3 ?
-Trzecia odsłona fameworka Nuxt oczekiwana jest ju od ponad roku. Czy warto czekać?
+Trzecia odsłona fameworka Nuxt oczekiwana jest juz od ponad roku. Czy warto czekać?
 
 ## NuxtNation
 
@@ -25,7 +25,7 @@ Na konferencji podano te sporo szczegółów odnośnie nowej wersji.
 
 Nuxt3 został zbudowany od nowa jako fundament do nowoczesnego webdevelopmentu jako hybryda wersji statycznej oraz renderowanej na serwerze z API routes i natywnie wbudowanym serverless.
 
-Nuxt 3 został znieniony jeśli chodzi o jego architekturę, jest mniejszy i zoptumalizowany pod szybkie dziaanie oraz bardziej wygodny w dewelopmencie.
+Nuxt 3 został znieniony jeśli chodzi o jego architekturę, jest mniejszy i zoptymalizowany pod szybkie dziaanie oraz bardziej wygodny w dewelopmencie.
 
 ## Jakie nowe funkcje posiada?
 

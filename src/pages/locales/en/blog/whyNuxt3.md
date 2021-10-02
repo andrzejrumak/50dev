@@ -75,4 +75,8 @@ Vue 3 as a solid foundation for your next web dev.
 Native TypeScript and ESM - no extra steps required.
 
 
-It will be the best frontend framework. Why?. The answer for this question - soon.
+### Will it be the best frontend framework?
+
+ We will see.
+
+[Taken from NUXT3 website](https://nuxtjs.org/v3/)
