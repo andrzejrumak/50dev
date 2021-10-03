@@ -2,10 +2,8 @@
 
 import whynuxt3 from './locales/en/blog/whyNuxt3.md'
 import whynuxt3pl from './locales/pl/blog/whyNuxt3.md'
-import { useUserStore } from '~/stores/user'
-
-const user = useUserStore()
-const name = ref(user.savedName)
+import vue32 from './locales/en/blog/vue32.md'
+import vue32pl from './locales/pl/blog/vue32.md'
 
 const { t, locale } = useI18n()
 </script>
@@ -20,6 +18,16 @@ const { t, locale } = useI18n()
       <!-- <div class="m-3 ">
         <em class="text-xl opacity-80"> {{ t('intro.discription_50p') }} </em>
       </div> -->
+
+      <div class="mb-6">
+        <div v-if=" locale === 'en' " class="">
+          <vue32 />
+        </div>
+        <div v-else>
+          <vue32pl />
+        </div>
+      </div>
+
       <div v-if=" locale === 'en' " class="">
         <whynuxt3 />
       </div>

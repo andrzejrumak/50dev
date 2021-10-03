@@ -57,13 +57,13 @@ const router = useRouter()
     <router-link class="icon-btn mx-2" to="/about" :title="t('button.about')">
       <carbon-dicom-overlay />
     </router-link>
-    <router-link class="icon-btn mx-2" to="/diary" :title="t('button.about')">
+    <router-link class="icon-btn mx-2" to="/diary" :title="t('button.diary')">
       <uil:diary />
     </router-link>
-    <router-link class="icon-btn mx-2" to="/portfolio" :title="t('button.about')">
+    <router-link class="icon-btn mx-2" to="/portfolio" :title="t('button.Portfolio')">
       <carbon:portfolio />
     </router-link>
-    <router-link class="icon-btn mx-2" to="/playground" :title="t('button.kasa')">
+    <router-link class="icon-btn mx-2" to="/playground" :title="t('button.Playground')">
       <map:playground />
     </router-link>
   </nav>
