@@ -11,6 +11,36 @@ title: Diary
 
 
 
+    05.10.2021
+- [Kontynuacja kursu ANF - Accessibility testing ](https://architekturanafroncie.pl/)
+- [Class Binding - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- 50p.dev - post o Vue 3.2 + playground Class Binding przykład
+
+----
+
+    04.10.2021
+- [Kontynuacja kursu ANF - Accessibility testing ](https://architekturanafroncie.pl/)
+- [v-if, v-else, v-for, computed - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- 50p.dev - post o Vue 3.2 + playground Class Binding przykład
+
+----
+
+    01-03.10.2021
+
+- [Kontynuacja kursu ANF - Cypress and Puppeteer - Page Object](https://architekturanafroncie.pl/)
+- [START - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+- [Utrzymanie systemu legacy w praktyce [LegacyFighter 🔥 LIVE]](https://youtu.be/Sw6zkr8CZ6k)
+- [AdonisJS - #11 Shield, CSRF](https://youtu.be/SAqQSkX2meg)
+- [AdonisJS - #12 Walidacja formularza, FlashMasseges, Session](https://youtu.be/mVseWzRZ4Tk)
+- 
+- 50p.dev - post o Vue 3.2 + playground by pokazywać jakim kodem sie bawiłem
+
+
+
+----
+
     30.09.2021
 
 - [Kontynuacja kursu ANF - Cypress and Puppeteer](https://architekturanafroncie.pl/)
