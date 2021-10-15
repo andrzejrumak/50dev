@@ -24,4 +24,3 @@ Of course there is still a lot of work to be done to make it a stable version, b
 
 Soon further part of report about new Nuxt 3
 
-Translated with www.DeepL.com/Translator (free version)
