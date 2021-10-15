@@ -9,6 +9,60 @@ title: Diary
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
 
+    08.10.2021
+- [Continuation of the ANF course - Integration tests page object pattern ](https://architekturanafroncie.pl/)
+- [First Component - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- [Vue Contributor Days Vue ver 3.3, New Vue Documentation, TypeScript and Vue Composition API, Volar](https://youtu.be/gpTbH469Qog) 
+
+----
+
+    07.10.2021
+- [Continuation of the ANF course - Integration tests mocking http, server ](https://architekturanafroncie.pl/)
+- [V-model - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- Jamstack Conf 2021 October 6th–7th, 
+- Create a Jamstack app with Nuxt.js and Firebase Course on [JamStackTraning](https://courses.jamstack.training/courses/)
+
+----
+
+
+    06.10.2021
+- [Continuation of the ANF course - Integration tests Cypres](https://architekturanafroncie.pl/)
+- [Input Validation - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- Jamstack Conf 2021 October 6th–7th, 2021
+
+----
+
+    05.10.2021
+- [Continuation of the ANF course - Accessibility testing ](https://architekturanafroncie.pl/)
+- [Class Binding - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- 50p.dev - post o Vue 3.2 + playground Class Binding example
+
+----
+
+    04.10.2021
+- [Continuation of the ANF course - Accessibility testing ](https://architekturanafroncie.pl/)
+- [v-if, v-else, v-for, computed - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+
+----
+
+
+    01-03.10.2021
+
+- [Continuation of the ANF course - Cypress and Puppeteer - Page Object](https://architekturanafroncie.pl/)
+- [START - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+- [Maintaining a legacy system in practice [LegacyFighter 🔥 LIVE]](https://youtu.be/Sw6zkr8CZ6k)
+- [AdonisJS - #11 Shield, CSRF](https://youtu.be/SAqQSkX2meg)
+- [AdonisJS - #12 Form validation, FlashMasseges, Session](https://youtu.be/mVseWzRZ4Tk)
+- 
+- 50p.dev - post about Vue 3.2 + playground to show what code I was playing with
+
+----
+
     30.09.2021
 
 

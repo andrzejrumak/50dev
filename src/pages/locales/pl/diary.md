@@ -9,7 +9,31 @@ title: Diary
   <h4>Dziennik w którym zapisuje codzienną mą wędrówkę w samokształceniu się w programowaniu.</h4>
 </div>
 
+    08.10.2021
+- [Continuation of the ANF course - Integration tests page object pattern ](https://architekturanafroncie.pl/)
+- [First Component - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
 
+- [Vue Contributor Days Vue ver 3.3, New Vue Documentation, TypeScript and Vue Composition API, Volar](https://youtu.be/gpTbH469Qog) 
+
+----
+
+    07.10.2021
+- [Continuation of the ANF course - Integration tests mocking http, server ](https://architekturanafroncie.pl/)
+- [V-model - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- Jamstack Conf 2021 October 6th–7th, 
+- Create a Jamstack app with Nuxt.js and Firebase Course on [JamStackTraning](https://courses.jamstack.training/courses/)
+
+----
+
+
+    06.10.2021
+- [Continuation of the ANF course - Integration tests Cypres](https://architekturanafroncie.pl/)
+- [Input Validation - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- Jamstack Conf 2021 October 6th–7th, 2021
+
+----
 
     05.10.2021
 - [Kontynuacja kursu ANF - Accessibility testing ](https://architekturanafroncie.pl/)

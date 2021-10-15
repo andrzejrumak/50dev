@@ -28,6 +28,10 @@ function isEven(element) {
   return (element % 2 === 0)
 }
 
+function getClass(n) {
+  return isEven(n) ? 'green' : 'orange'
+}
+
 const evens = computed (() => num.filter(isEven))
 
 </script>
@@ -65,7 +69,11 @@ const evens = computed (() => num.filter(isEven))
 
     <div class="grid grid-cols-2 my-4">
       <div>
-        <div v-for="n in num">
+        <div
+          v-for="n in num"
+          :key="n"
+          :class="getClass(n) "
+        >
           <div>
             <h1>
               {{ n }}
@@ -85,7 +93,10 @@ const evens = computed (() => num.filter(isEven))
           EVEN only (tylko parzysta)
         </h1>
 
-        <div v-for="even in evens" class="i">
+        <div
+          v-for="even in evens"
+          :key="even"
+        >
           <div>
             <h1 class="text-4xl">
               | {{ even }} |
@@ -102,4 +113,12 @@ const evens = computed (() => num.filter(isEven))
 h1 {
   color: v-bind('colorh');
 }
+
+.green{
+  color: aqua;
+}
+.orange {
+  color: orange;
+}
+
 </style>
