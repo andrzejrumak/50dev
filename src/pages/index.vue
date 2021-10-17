@@ -8,6 +8,9 @@ import vue32pl from './locales/pl/blog/vue32.md'
 import nuxt3b from './locales/en/blog/nuxt3beta.md'
 import nuxt3bpl from './locales/pl/blog/nuxt3beta.md'
 
+import starters from './locales/en/blog/starters.md'
+import starterspl from './locales/pl/blog/starters.md'
+
 const { t, locale } = useI18n()
 </script>
 
@@ -21,6 +24,15 @@ const { t, locale } = useI18n()
       <!-- <div class="m-3 ">
         <em class="text-xl opacity-80"> {{ t('intro.discription_50p') }} </em>
       </div> -->
+
+      <div class="mb-6">
+        <div v-if=" locale === 'en' " class="">
+          <starters />
+        </div>
+        <div v-else>
+          <starterspl />
+        </div>
+      </div>
 
       <div class="mb-6">
         <div v-if=" locale === 'en' " class="">
