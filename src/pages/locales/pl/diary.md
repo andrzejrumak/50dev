@@ -2,20 +2,65 @@
 title: Diary
 ---
 
-<div class="text-center">
+<div class="text-center mb-3">
   <!-- You can use Vue components inside markdown -->
-  <uil:diary class="text-orange-600 text-4xl -mb-6 m-auto" />
+  <uil:diary class="text-orange-600 text-4xl mb-3 m-auto" />
   <h3>50p.dev Diary</h3>
   <h4>Dziennik w którym zapisuje codzienną mą wędrówkę w samokształceniu się w programowaniu.</h4>
 </div>
 
-    08.10.2021
-- [Continuation of the ANF course - Integration tests page object pattern ](https://architekturanafroncie.pl/)
-- [First Component - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+    16.10.2021
 
-- [Vue Contributor Days Vue ver 3.3, New Vue Documentation, TypeScript and Vue Composition API, Volar](https://youtu.be/gpTbH469Qog) 
+
+- [🍍 Intuicyjny, type safe, lekki i elastyczny Store dla Vue do użycia z the composition api oraz wsparcie dla DevTools](https://pinia.esm.dev/ssr/nuxt.html)
+
 
 ----
+
+    15.10.2021
+- [Implementacja modułów Nuxt 3](https://v3.nuxtjs.org/docs/directory-structure/modules/)
+
+- [🍃 Windi CSS for Nuxt.js ⚡ EXAMPLE](https://github.com/windicss/nuxt-windicss-module)
+
+- publikacja postów na Twitter
+
+- 50p.dev - post - Nuxt 3 beta public
+----
+
+    14.10.2021
+- [Uczestnictwo w dev.js Summit 2021 (online)](https://app.evenea.pl/event/devjssummit/)
+
+- [Webinar poświęcony utworzeniu i prowadzeniu kanału na YouTube prowadzony przez GrowTube](https://www.growtube.pl/)
+
+----
+
+
+    12-13.10.2021
+
+- [Nuxt 3 beta public - start - czytanie nowej dokumentacji](https://v3.nuxtjs.org/)
+
+- [Zabawa z Nuxt3 + Tailwind - repo](https://github.com/andrzejrumak/50pdev)
+
+- [Publikacja Nuxt3 Demo on Netlify](https://condescending-snyder-943f7c.netlify.app/)
+
+
+---- 
+
+
+    09.10.2021
+- [Częściowe uczestnictwo w warsztatach Jak osiągnąć Referential Equality - warsztaty online z React Hooks ](https://app.evenea.pl/event/twg-hooks-workshop/)
+
+----
+
+
+    08.10.2021
+- [Kontynuacja kursu ANF - Integration tests page object pattern ](https://architekturanafroncie.pl/)
+- [First Component - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+- [Spotkanie tworców Vue Contributor Days Vue ver 3.3, New Vue Documentation, TypeScript and Vue Composition API, Volar](https://youtu.be/gpTbH469Qog) 
+
+----
+
 
     07.10.2021
 - [Continuation of the ANF course - Integration tests mocking http, server ](https://architekturanafroncie.pl/)

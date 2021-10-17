@@ -15,6 +15,13 @@ title: Portfolio
 
 [GreenShop App for android - nativescript front](https://play.google.com/store/apps/details?id=pl.shop.green.app)
 
+[Personal Blog about fatherhood - NuxtJS 2 - EN,PL](https://www.jestemojcem.pl/)- repo- private
+
+[Children's course page - VUE2, Tilwind, PWA, + WordPress Forms, PL ](https://edukacja.m27.pl/)
+
+[Personal blog for developers 50+ and beyond - VUE3, VITE, MD support, multilingual with I18n etc , EN,PL](https://50p.dev/) - [rep](https://github.com/andrzejrumak/50dev)
+
+
 ### COURSES
 
 - [TypeScript Course](https://platforma.strefakursow.pl/p/certificate/hash/te3xsootqj4800gsk8wwks4ccw0s4og)
@@ -28,7 +35,8 @@ title: Portfolio
 
 - [Master Laravel with Vue.js Fulstack Development](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f3b6c734-6816-4d17-bd4a-36fb932cd764.pdf) repo, app
 
-### SKILLS LEARNED
-- soon
+- [Lern Node with Web Bos - 2017](https://learnnode.com/) - [ceriticate](wesbosNodeCourse.png) - [repo](https://github.com/andrzejrumak/AR-Learn-Node)
+
+- [Web Bos free courses - 2017](https://wesbos.com/courses)
 
 

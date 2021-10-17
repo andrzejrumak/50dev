@@ -2,12 +2,53 @@
 title: Diary
 ---
 
-<div class="text-center">
+<div class="text-center mb-10">
   <!-- You can use Vue components inside markdown -->
-  <uil:diary  class="text-orange-600 text-4xl -mb-6 m-auto" />
+  <uil:diary  class="text-orange-600 text-4xl mb-3 m-auto" />
   <h3>50p.dev Diary</h3>
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
+
+    16.10.2021
+
+- [🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support](https://pinia.esm.dev/ssr/nuxt.html)
+
+----
+
+
+    15.10.2021
+- [Nuxt 3 Module Implementation](https://v3.nuxtjs.org/docs/directory-structure/modules/)
+
+- [🍃 Windi CSS for Nuxt.js ⚡ EXAMPLE](https://github.com/windicss/nuxt-windicss-module)
+
+- publishing posts to Twitter
+
+- 50p.dev - post - Nuxt 3 beta public
+
+----
+
+    14.10.2021
+- [Attend dev.js Summit 2021 (online)](https://app.evenea.pl/event/devjssummit/)
+
+- [Webinar on creating and maintaining a YouTube channel hosted by GrowTube](https://www.growtube.pl/)
+
+----
+
+
+    12-13.10.2021
+
+- [Nuxt 3 beta public is alive - new documentation reading](https://v3.nuxtjs.org/)
+
+- [Playing with Nuxt3 - repo](https://github.com/andrzejrumak/50pdev)
+
+- [Deploying Nuxt3 Demo on Netlify](https://condescending-snyder-943f7c.netlify.app/)
+
+----    
+ 
+    09.10.2021
+- [Partial participation in the workshop How to achieve Referential Equality - an online workshop with React Hooks ](https://app.evenea.pl/event/twg-hooks-workshop/)
+
+----
 
     08.10.2021
 - [Continuation of the ANF course - Integration tests page object pattern ](https://architekturanafroncie.pl/)
@@ -39,7 +80,7 @@ title: Diary
 - [Continuation of the ANF course - Accessibility testing ](https://architekturanafroncie.pl/)
 - [Class Binding - Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
 
-- 50p.dev - post o Vue 3.2 + playground Class Binding example
+- 50p.dev - post about Vue 3.2 + playground Class Binding example
 
 ----
 
