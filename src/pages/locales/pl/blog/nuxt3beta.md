@@ -23,8 +23,4 @@ Oczywiście jeszcze duzo pracy do wykonania aby to była stabilna wersja ale war
 [Demo na Netlify](https://condescending-snyder-943f7c.netlify.app/)
 
 Wkrótce dalsza część sprawozdania o nowym Nuxt 3
-
-
-
-
  

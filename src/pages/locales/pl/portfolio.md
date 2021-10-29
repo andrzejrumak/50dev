@@ -38,3 +38,30 @@ title: Portfolio
 
 - [Bezpłatne kursy Wes Bos - 2017](https://wesbos.com/courses)
 
+
+### Konferencje
+
+    26.10.2021
+
+- [NEXT JS Conference - Let’s make the Web.Faster.](https://nextjs.org/conf)   
+
+
+    21-22.10.2021
+
+- [Vue js Live - Conference](https://vuejslive.com/) 
+
+### Warsztaty
+
+
+
+    26.10.2021
+
+- [Vue3: Modern Frontend App Development](https://vuejslive.com/workshops-3h)
+
+
+----
+
+    25.10.2021
+
+- [Workshop: Using Nitro – Building an App with the Latest Nuxt Rendering Engine](https://vuejslive.com/workshops-3h)
+

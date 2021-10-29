@@ -9,6 +9,78 @@ title: Diary
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
 
+    26.10.2021
+
+- [NEXT JS Conference - Let’s make the Web.Faster.](https://nextjs.org/conf)    
+
+- [Vue3: Modern Frontend App Development](https://vuejslive.com/workshops-3h)
+
+
+----
+
+    25.10.2021
+
+- Blog post about starters 
+- [Workshop: Using Nitro – Building an App with the Latest Nuxt Rendering Engine](https://vuejslive.com/workshops-3h)
+
+
+----
+
+    23.10.2021
+
+- Blog post about silvers 
+
+----
+
+    22.10.2021
+
+- [Lightning talk: Stop wasting your time and be more productive by Samuel Snopko STORYBLOK](https://www.youtube.com/watch?v=yCGl8WxINqs&t=503s)
+
+
+----
+
+    21.10.2021
+
+- [LIVE: 🔴 Jak Zbudować Startup Z Inwestorem (Krok Po Kroku)?](https://www.youtube.com/watch?v=8inkxo2S-aI)
+- [Vue js Live Conference - day 2](https://www.youtube.com/watch?v=L3GxHaMGpGk&t=896s)
+
+
+----
+
+
+    20.10.2021
+
+
+- [Vue js Live Conference - day 1](https://www.youtube.com/watch?v=O0d8Urx7W8w)
+
+
+----
+
+    19.10.2021
+
+- [5 Ways to Fetch Data from an API in Vue 3 Composition API](https://www.youtube.com/watch?v=-BYZAO99UVA)
+
+
+----
+
+    18.10.2021
+
+- [This is not a getting started with Nuxt 3 video](https://youtu.be/kaXet1oOqOE)
+- [7 Important Vue 3 Composition and Composable Functions Explained](https://youtu.be/z_1k0QC1HsE)
+
+
+----
+
+
+    17.10.2021
+
+- Blog post about starters 
+- [Nuxt 3 starter](https://github.com/productdevbook/nuxt3-app)
+
+
+----
+
+
     16.10.2021
 
 - [🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support](https://pinia.esm.dev/ssr/nuxt.html)

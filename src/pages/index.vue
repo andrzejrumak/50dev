@@ -1,5 +1,7 @@
 <script setup lang="ts">
 
+import { useHead } from '@vueuse/head'
+
 import whynuxt3 from './locales/en/blog/whyNuxt3.md'
 import whynuxt3pl from './locales/pl/blog/whyNuxt3.md'
 import vue32 from './locales/en/blog/vue32.md'
@@ -10,6 +12,19 @@ import nuxt3bpl from './locales/pl/blog/nuxt3beta.md'
 
 import starters from './locales/en/blog/starters.md'
 import starterspl from './locales/pl/blog/starters.md'
+
+import silvers from './locales/en/blog/silvers.md'
+import silverspl from './locales/pl/blog/silvers.md'
+
+// https://github.com/vueuse/head
+// you can use this to manipulate the document head in any components,
+// they will be rendered correctly in the html results with vite-ssg
+useHead({
+  title: '50p.dev',
+  meta: [
+    { name: 'description', content: 'Space for mature developers' },
+  ],
+})
 
 const { t, locale } = useI18n()
 </script>
@@ -24,6 +39,15 @@ const { t, locale } = useI18n()
       <!-- <div class="m-3 ">
         <em class="text-xl opacity-80"> {{ t('intro.discription_50p') }} </em>
       </div> -->
+
+      <div class="mb-6">
+        <div v-if=" locale === 'en' " class="">
+          <silvers />
+        </div>
+        <div v-else>
+          <silverspl />
+        </div>
+      </div>
 
       <div class="mb-6">
         <div v-if=" locale === 'en' " class="">
