@@ -16,6 +16,9 @@ import starterspl from './locales/pl/blog/starters.md'
 import silvers from './locales/en/blog/silvers.md'
 import silverspl from './locales/pl/blog/silvers.md'
 
+import modules from './locales/en/blog/nuxt3modules.md'
+import modulespl from './locales/pl/blog/nuxt3modules.md'
+
 // https://github.com/vueuse/head
 // you can use this to manipulate the document head in any components,
 // they will be rendered correctly in the html results with vite-ssg
@@ -39,6 +42,15 @@ const { t, locale } = useI18n()
       <!-- <div class="m-3 ">
         <em class="text-xl opacity-80"> {{ t('intro.discription_50p') }} </em>
       </div> -->
+
+      <div class="mb-6">
+        <div v-if=" locale === 'en' " class="">
+          <modules />
+        </div>
+        <div v-else>
+          <modulespl />
+        </div>
+      </div>
 
       <div class="mb-6">
         <div v-if=" locale === 'en' " class="">
