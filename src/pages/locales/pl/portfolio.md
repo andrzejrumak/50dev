@@ -41,6 +41,14 @@ title: Portfolio
 
 ### Konferencje
 
+    18-19.11.2021
+
+- [Test JS Submmit](https://www.testjssummit.com/)
+
+    10-11.11.2021
+
+- [GraphQL Submmit](https://summit.graphql.com/)
+
     26.10.2021
 
 - [NEXT JS Conference - Let’s make the Web.Faster.](https://nextjs.org/conf)   

@@ -17,7 +17,7 @@ title: Portfolio
 
 [Personal Blog about fatherhood - NuxtJS 2 - EN,PL](https://www.jestemojcem.pl/)- repo- private
 
-[Children's course page - VUE2, Tilwind, PWA, + WordPress Forms, PL ](https://edukacja.m27.pl/)
+[Children's course page - VUE2, Tilwind, PWA, + WordPress Forms, PL ](https://m27edu.50p.dev/)
 
 [Personal blog for developers 50+ and beyond - VUE3, VITE, MD support, multilingual with I18n etc , EN,PL](https://50p.dev/) - [rep](https://github.com/andrzejrumak/50dev)
 
@@ -41,6 +41,14 @@ title: Portfolio
 
 
 ### Conferences
+
+    18-19.11.2021
+
+- [Test JS Submmit](https://www.testjssummit.com/)
+
+    10-11.11.2021
+
+- [GraphQL Submmit](https://summit.graphql.com/)
 
     26.10.2021
 
