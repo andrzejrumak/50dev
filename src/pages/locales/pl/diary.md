@@ -9,6 +9,39 @@ title: Diary
   <h4>Dziennik w którym zapisuje codzienną mą wędrówkę w samokształceniu się w programowaniu.</h4>
 </div>
 
+     14.11.2021
+
+
+- Post o Vue 3 i Graphql 
+
+----
+
+     10-11.11.2021
+
+- [Konferencja GRAPHQL SUMMIT](https://summit.graphql.com/) 
+
+Graphql - inny niz tradycyjny REST API sposób zapytań i odpowiedzi
+ w procesie serwowania danych. Elastyczny jezyk zapytań, jeden endpoint i serwer qraphql 
+ podpięty pod bazy danych a nawet REST API.
+
+
+- [REST vs GraphQL - porównanie](https://bulldogjob.pl/news/1789-rest-vs-graphql-porownanie) 
+
+
+
+
+----
+
+     4-9.11.2021
+
+- Vue CLI, Vue 3 and Vuex - tworzenie paginacji do blogu połaczonego z REST API  https://jsonplaceholder.typicode.com jako źrodła danych.
+
+[repo.](https://github.com/andrzejrumak/cogitest)    
+
+
+----
+
+
     26.10.2021
 
 - [NEXT JS Conference - Let’s make the Web.Faster.](https://nextjs.org/conf)    

@@ -9,6 +9,25 @@ title: Diary
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
 
+
+     10-11.11.2021
+
+- [GRAPHQL SUMMIT Conference with workshop](https://summit.graphql.com/)    
+
+
+
+----
+
+     4-9.11.2021
+
+- Vue CLI Vue 3 and Vuex - simple blog with pagination With API REST https://jsonplaceholder.typicode.com as data source.
+
+[repo.](https://github.com/andrzejrumak/cogitest)    
+
+
+----
+
+
     26.10.2021
 
 - [NEXT JS Conference - Let’s make the Web.Faster.](https://nextjs.org/conf)    

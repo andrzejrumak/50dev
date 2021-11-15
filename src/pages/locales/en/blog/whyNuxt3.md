@@ -8,6 +8,7 @@ title: Why Nuxt 3
 <img class="animate-pulse" src="/Nuxt-js.png" alt="Nuxtlogo" style="height: 100px; width:100px;"/>
 
 
+
  
 
 # Why I am waiting for Nuxt3?
