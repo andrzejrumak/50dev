@@ -63,7 +63,7 @@ const router = useRouter()
     <router-link class="icon-btn mx-2" to="/portfolio" :title="t('button.Portfolio')">
       <carbon:portfolio />
     </router-link>
-    <router-link class="icon-btn mx-2" to="/playground" :title="t('button.Playground')">
+    <router-link class="icon-btn mx-2" to="/playground/p" :title="t('button.Playground')">
       <map:playground />
     </router-link>
   </nav>

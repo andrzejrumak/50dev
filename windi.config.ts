@@ -15,7 +15,7 @@ export default defineConfig({
       typography: {
         DEFAULT: {
           css: {
-            maxWidth: '65ch',
+            maxWidth: '75ch',
             color: 'inherit',
             a: {
               'color': 'inherit',

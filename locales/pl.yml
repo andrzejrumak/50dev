@@ -1,5 +1,9 @@
 button:
   Playground: Plac zabaw
+  Playgroundv2: |-
+
+    Plac zabaw dla Vue 2
+  Playgroundv3: Plac zabaw dla Vue wersji 3
   Portfolio: |
     Portfolio
   about: O nas
@@ -25,6 +29,7 @@ intro:
   dynamic-route: prezentacja dynamicznych adesów
   hi: Cześć, {name}!
   note: Uwaga wkrótce post - Dlaczego czekam na NUXT3 ?
+  playground: Bez obaw, to tylko mała zabawa
   whats-your-name: Jak masz na imię?
 not-found: Nie znaleziono
 opis:

@@ -1,19 +1,19 @@
 <script setup lang="ts">
 import { ref, computed, reactive } from 'vue'
-import codeczek from './czyta.md'
+import codeczek from './codev3.md'
 
 const count = ref(10)
 const num = reactive([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
 const colorh = ref('orange')
 
 const inc = () => {
-  count.value += 1
+  count.value++
   num.push(count.value)
   whatColor()
 }
 
 const desc = () => {
-  count.value -= 1
+  count.value--
   num.pop(count.value)
   whatColor()
 }
