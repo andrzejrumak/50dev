@@ -1,5 +1,7 @@
 button:
   Playground: Playground
+  Playgroundv2: Playground for Vue 2
+  Playgroundv3: Playground for Vue 3 version
   Portfolio: Portfolio
   about: About
   back: Back
@@ -25,6 +27,7 @@ intro:
   dynamic-route: Demo of dynamic route
   hi: Hi, {name}!
   note: Attention - post - Why am I waiting for NUXT3 ? - SOON
+  playground: No worries, It is just only a litle play
   whats-your-name: What's your name?
 not-found: Not found
 stopka: 50p.dev 2021 copyright
