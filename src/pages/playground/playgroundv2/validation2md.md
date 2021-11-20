@@ -1,33 +1,31 @@
+---
+title: Vue 2 counter
+---
+
+## Code
+
+```js
+
+
 <template>
-  <div class="divide-y divide-orange-400 md:divide-y-1">
-    <div class="p-4">
-      <h1 class="text-2xl m-4">
-        Simple input validation with error shown
-      </h1>
-    </div>
-    <div class="p-4">
-      <input
-        type="text"
-        :value="value"
-        :class="getClass"
-        @input="input"
-      >
-      <div class="text-red-500 text-sm">
-        From methods: {{ error1 }}
-      </div>
-      <div class="text-red-500 text-sm">
-        From computed: {{ error2 }}
-      </div>
-      <h1 class="text-3xl m-3">
-        {{ value }}
-      </h1>
-    </div>
-    <div class="p-4">
-      <router-link class="icon-btn mx-2" to="/playground/playgroundv2/validation2md" :title="code">
-        code <carbon:code />
-      </router-link>
-    </div>
+  <input
+    type="text"
+    :value="value"
+    :class="getClass"
+    @input="input"
+  >
+  <div class="text-red-500 text-sm">
+    From methods: {{ error1 }}
   </div>
+  <div class="text-red-500 text-sm">
+    From computed: {{ error2 }}
+  </div>
+  <h1 class="text-3xl m-3">
+    {{ value }}
+  </h1>
+  <router-link class="icon-btn mx-2" to="/playground/playgroundv2/validation2c" :title="code">
+    code <carbon:code />
+  </router-link>
 </template>
 <script lang="ts">
 import { defineComponent } from 'vue'
