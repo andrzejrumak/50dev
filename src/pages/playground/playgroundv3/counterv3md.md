@@ -1,7 +1,7 @@
 ---
-title: code
+title: Counter Vue 3
 ---
-
+##CODE
 
 ```js
 <script setup lang="ts">

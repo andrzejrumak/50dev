@@ -11,13 +11,17 @@ const router = useRouter()
     </p>
     <router-link
       class="icon-btn mx-2"
-      to="/playground/playgroundv3/counter_v3"
+      to="/playground/playgroundv3/p3"
       :title="t('button.Playgroundv3')"
     >
       {{ t('button.Playgroundv3') }} <map:playground />
     </router-link>
 
-    <router-link class="icon-btn mx-2" to="/playground/playgroundv2/cv2" :title="t('button.Playgroundv2')">
+    <router-link
+      class="icon-btn mx-2"
+      to="/playground/playgroundv2/p2"
+      :title="t('button.Playgroundv2')"
+    >
       {{ t('button.Playgroundv2') }} <map:playground />
     </router-link>
   </div>

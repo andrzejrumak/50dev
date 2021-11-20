@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, computed, reactive } from 'vue'
-import codeczek from './codev3.md'
+import codeczek from './counterv3md.md'
 
 const count = ref(10)
 const num = reactive([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
