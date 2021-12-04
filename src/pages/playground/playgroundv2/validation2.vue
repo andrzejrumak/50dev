@@ -6,7 +6,9 @@
       </h1>
     </div>
     <div class="p-4">
+      <label for="User">User</label>
       <input
+
         type="text"
         :value="value"
         :class="getClass"
@@ -23,7 +25,7 @@
       </h1>
     </div>
     <div class="p-4">
-      <router-link class="icon-btn mx-2" to="/playground/playgroundv2/validation2md" :title="code">
+      <router-link class="icon-btn mx-2" to="/playground/playgroundv2/validation2md">
         code <carbon:code />
       </router-link>
     </div>
@@ -33,27 +35,27 @@
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  setup() {
-
-  },
   data() {
     return {
-      value: 'user',
-      error1: '',
+      value: '',
+      error1: 'There is no user. Start to write',
     }
   },
   computed: {
     error2() {
-      if (this.value.length < 5)
+      if (!this.value.length)
+        return 'There is no user. Start to write'
+      else if
+      (this.value.length < 5)
         return 'Must be more than 5 letters'
       else
-        return null
+        return '√'
     },
     getClass() {
-      if (this.error2)
-        return 'focus:border-red-500 border-red-400 text-red-700 dark:bg-red-200 border-1 m-3 p-1 rounded-md'
-      else
+      if (this.error2 === '√')
         return 'border-emerald-400 dark:bg-lime-700 border-1 m-3 p-1 rounded-md'
+      else
+        return 'focus:border-red-500 border-red-400 text-red-700 dark:bg-red-200 border-1 m-3 p-1 rounded-md'
     },
   },
   methods: {
@@ -62,7 +64,7 @@ export default defineComponent({
       if (this.value.length < 5)
         this.error1 = 'Must be more than 5 letters'
       else
-        this.error1 = '0 errors'
+        this.error1 = '√'
     },
   },
 })

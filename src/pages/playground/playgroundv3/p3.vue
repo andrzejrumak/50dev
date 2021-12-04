@@ -15,5 +15,10 @@ const router = useRouter()
         Counter script setup, style v-bind, computed with Windi CSS styled <map:playground />
       </router-link>
     </div>
+    <div class="m-4 p-2">
+      <router-link class="icon-btn mx-2" to="/playground/playgroundv3/validation31" :title="t('button.Playground')">
+        Vue 3 form validation with components, props, emits <map:playground />
+      </router-link>
+    </div>
   </div>
 </template>

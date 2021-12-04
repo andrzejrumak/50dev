@@ -9,6 +9,31 @@ title: Diary
   <h4>Dziennik w którym zapisuje codzienną mą wędrówkę w samokształceniu się w programowaniu.</h4>
 </div>
 
+     01-04.11.2021
+
+- [Kurs Vue 3 by DEVCASTS odcinki #1-#6 ](hhttps://www.youtube.com/playlist?list=PL5D-bWa64_5L1delf-Km4i933RTNnDc8s) 
+
+- nowe treści w piaskownicy 50p.dev
+
+----
+
+
+     24-30.11.2021
+
+- [Projekt 1 - FOrmularz logowania się z walidacja, componenty, propsy, emity - Complete Vue.js 3 ](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+W ramach ćwiczeń kodowanie w Vue 3 script setup opublikowane w na placu zabaw 50p.dev
+
+----
+
+
+     23.11.2021
+
+- [VueConf Toronto 2021](https://www.vuetoronto.com)  
+
+----
+
+
      14.11.2021
 
 

@@ -23,6 +23,9 @@ title: Portfolio
 
 ### KURSY
 
+- [Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)
+](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/) - w trakcie
+
 - [Kurs TypeScript](https://platforma.strefakursow.pl/p/certificate/hash/te3xsootqj4800gsk8wwks4ccw0s4og)
 
 - [Vue.js - Zaawansowane zagadnienia i najlepsze praktyki](https://www.udemy.com/certificate/UC-5c311cad-8c14-4b54-9d7d-b2d41031079e/)
@@ -40,6 +43,10 @@ title: Portfolio
 
 
 ### Konferencje
+
+    23.11.2021
+
+- [VueConf Toronto 2021](https://www.vuetoronto.com) 
 
     18-19.11.2021
 

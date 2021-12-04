@@ -9,6 +9,37 @@ title: Diary
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
 
+     01-04.11.2021
+
+- [VUe 3 Course in polish language #1-#6 ](hhttps://www.youtube.com/playlist?list=PL5D-bWa64_5L1delf-Km4i933RTNnDc8s)  
+
+- New content in 50p.dev playground
+
+----
+
+
+     24-30.11.2021
+
+- [Project 1 - User Sign-up Form w/ Validation - Complete Vue.js 3 ](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+Coding in Vue 3 script setup - showing in 50p.dev playground
+
+----
+
+     23.11.2021
+
+- [VueConf Toronto 2021](https://www.vuetoronto.com)  
+
+----
+
+     14.11.2021
+
+
+- Post about Vue 3 and Graphql - written
+
+
+
+----
 
      10-11.11.2021
 
@@ -245,7 +276,7 @@ title: Diary
 
       25.09.2021
 
-- [VUE animation course - begining] (https://www.vuemastery.com/courses/animating-vue/why-animate/)  
+- [VUE animation course - begining](https://www.vuemastery.com/courses/animating-vue/why-animate/)  
 
 - 50p.dev - navbar sticky to bottom page
 

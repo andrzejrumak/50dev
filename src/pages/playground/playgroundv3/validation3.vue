@@ -2,28 +2,39 @@
 import { ref, computed } from 'vue'
 import codeczek from './validation3md.md'
 
-const value = ref('user')
-const error1 = ref('')
-
+const value = ref('')
+const error1 = ref('There is no user. Start to write')
+const isChecked = ref(false)
 const error2 = computed (() => {
-  if (value.value.length < 5)
+  if (!value.value.length)
+    return 'There is no user. Start to write'
+  else if (value.value.length < 5)
     return 'Must be more than 5 letters'
+  else
+    return '√'
+})
+const getClass = computed (() => {
+  if (error2.value === '√')
+    return 'border-emerald-400 dark:bg-lime-700 border-1 m-3 p-1 rounded-md'
+  else
+    return 'focus:border-red-500 border-red-400 text-red-700 dark:bg-red-200 border-1 m-3 p-1 rounded-md'
+})
+const checked = computed (() => {
+  if (isChecked.value)
+    return 'text-emerald-800'
   else
     return null
 })
-const getClass = computed (() => {
-  if (error2.value)
-    return 'focus:border-red-500 border-red-400 text-red-700 dark:bg-red-200 border-1 m-3 p-1 rounded-md'
-  else
-    return 'border-emerald-400 dark:bg-lime-700 border-1 m-3 p-1 rounded-md'
-})
-
 function input($event) {
   value.value = $event.target.value
-  if (value.value.length < 5)
+  if (value.value.length < 5) {
     error1.value = 'Must be more than 5 letters'
-  else
-    error1.value = '0 errors'
+    isChecked.value = false
+  }
+  else {
+    error1.value = '√'
+    isChecked.value = true
+  }
 }
 </script>
 
@@ -36,6 +47,7 @@ function input($event) {
     </div>
     <div class="mb-4">
       <div class="m-4">
+        <label for="User">User</label>
         <input
           type="text"
           :value="value"
@@ -43,14 +55,14 @@ function input($event) {
           @input="input"
         >
       </div>
-      <div class="text-red-500 text-sm">
+      <div class="text-red-500 text-sm" :class="checked">
         From methods: {{ error1 }}
       </div>
-      <div class="text-red-500 text-sm">
+      <div class="text-red-500 text-sm" :class="checked">
         From computed: {{ error2 }}
       </div>
       <h1 class="text-3xl m-3">
-        {{ value }}
+        Your user name: {{ value }} <span v-if="isChecked" class="text-emerald-800"> √</span>
       </h1>
     </div>
 
