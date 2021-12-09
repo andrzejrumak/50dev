@@ -6,6 +6,11 @@ const router = useRouter()
 <template>
   <div class="divide-y divide-orange-400 md:divide-y-1">
     <div class="m-4">
+      <router-link class="icon-btn mx-2" to="/playground/playgroundv2/cards/PokApp" :title="t('button.Playground')">
+        PokeApp - slots, props, emit, components <map:playground />
+      </router-link>
+    </div>
+    <div class="m-4">
       <router-link class="icon-btn mx-2" to="/playground/playgroundv2/counter21" :title="t('button.Playground')">
         Simple Vue 2 Counter <map:playground />
       </router-link>

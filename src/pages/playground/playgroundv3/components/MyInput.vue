@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue'
+import { computed } from 'vue'
 
 const props = defineProps({
   type: { type: String, default: 'text' },
@@ -32,6 +32,13 @@ function validate(value) {
 export default {
   emits: ['update'],
   methods: {
+    validate(value) {
+  if (props.rules.required && value.length === 0)
+    return 'This value is required.'
+  else if (props.rules.min && value.length < props.rules.min)
+    return `The minimum length ${props.rules.min}.`
+},
+
     input($event) {
       this.$emit('update', {
         name: this.name.toLowerCase(),
