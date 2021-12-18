@@ -6,6 +6,11 @@ const router = useRouter()
 <template>
   <div class="divide-y divide-orange-400 md:divide-y-1">
     <div class="m-4 p-2">
+      <router-link class="icon-btn mx-2" to="/playground/playgroundv3/blog/app" :title="t('button.Playground')">
+        Vue 3 Composition Api BLOG Store, filtering posts, post likes, hashtags search <map:playground />
+      </router-link>
+    </div>
+    <div class="m-4 p-2">
       <router-link class="icon-btn mx-2" to="/playground/playgroundv3/composition/app" :title="t('button.Playground')">
         Vue 3 Composition Api ref, reactive, computed, v-model, watch, watchEffect, composable <map:playground />
       </router-link>

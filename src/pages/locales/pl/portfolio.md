@@ -26,6 +26,10 @@ title: Portfolio
 - [Complete Vue.js 3 (Inc. Composition API, Vue Router, Vuex)
 ](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/) - w trakcie
 
+- [VUEMASTERY courses](https://www.vuemastery.com/) lista ukończonych:
+
+<img src="/vuemasterymycourse.png" alt="vuemasterymycourse" style="height: 600px; width:430px;"/>
+
 - [Kurs TypeScript](https://platforma.strefakursow.pl/p/certificate/hash/te3xsootqj4800gsk8wwks4ccw0s4og)
 
 - [Vue.js - Zaawansowane zagadnienia i najlepsze praktyki](https://www.udemy.com/certificate/UC-5c311cad-8c14-4b54-9d7d-b2d41031079e/)
@@ -37,7 +41,9 @@ title: Portfolio
 
 - [Master Laravel with Vue.js Fulstack Development](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f3b6c734-6816-4d17-bd4a-36fb932cd764.pdf) repo, app
 
-- [Lern Node with Web Bos - 2017](https://learnnode.com/) - [ceriticate](wesbosNodeCourse.png) - [repo](https://github.com/andrzejrumak/AR-Learn-Node)
+- [Lern Node with Web Bos - 2017](https://learnnode.com/) - [repo](https://github.com/andrzejrumak/AR-Learn-Node)
+
+<img src="/wes.png" alt="vuemasterymycourse" style="height: 300px; width:430px;"/>
 
 - [Bezpłatne kursy Wes Bos - 2017](https://wesbos.com/courses)
 

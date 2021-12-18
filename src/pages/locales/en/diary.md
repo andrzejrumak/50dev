@@ -9,7 +9,26 @@ title: Diary
   <h4>A diary in which I record my daily journey in self-education in programming.</h4>
 </div>
 
-     01-04.11.2021
+     17-19.12.2021
+
+- [VueMastery free weekend ](https://www.vuemastery.com/)  
+
+learning Vue 3, Router, Vuex etc.
+
+----
+
+
+
+     05-16.12.2021
+
+- [Projekt 2 - Vue 3 Composition Api BLOG - Store, filtering posts, post likes, hashtags search - Complete Vue.js 3 ](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+[Coding in Vue 3. Blog deployed on 50p.dev playground](https://50p.dev/playground/playgroundv3/blog/app)
+
+----
+
+
+     01-04.12.2021
 
 - [VUe 3 Course in polish language #1-#6 ](hhttps://www.youtube.com/playlist?list=PL5D-bWa64_5L1delf-Km4i933RTNnDc8s)  
 

@@ -9,7 +9,23 @@ title: Diary
   <h4>Dziennik w którym zapisuje codzienną mą wędrówkę w samokształceniu się w programowaniu.</h4>
 </div>
 
-     01-04.11.2021
+     17-19.12.2021
+
+- [VueMastery bezpłatny dostęp do kursów ](https://www.vuemastery.com/)  
+
+nauka Vue 3, Router, Vuex etc.
+
+----
+
+     05-16.12.2021
+
+- [Projekt 2 - Vue 3 Composition Api BLOG - Store, filtering posts, post likes, hashtags search - Complete Vue.js 3 ](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+
+[W ramach ćwiczeń kodowania w Vue 3. Blog opublikowany w na placu zabaw 50p.dev](https://50p.dev/playground/playgroundv3/blog/app)
+
+----
+
+     01-04.12.2021
 
 - [Kurs Vue 3 by DEVCASTS odcinki #1-#6 ](hhttps://www.youtube.com/playlist?list=PL5D-bWa64_5L1delf-Km4i933RTNnDc8s) 
 
@@ -20,7 +36,7 @@ title: Diary
 
      24-30.11.2021
 
-- [Projekt 1 - FOrmularz logowania się z walidacja, componenty, propsy, emity - Complete Vue.js 3 ](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
+- [Projekt 1 - Formularz logowania się z walidacja, componenty, propsy, emity - Complete Vue.js 3 ](https://www.udemy.com/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/)
 
 W ramach ćwiczeń kodowanie w Vue 3 script setup opublikowane w na placu zabaw 50p.dev
 
