@@ -1,4 +1,7 @@
 <template>
+  <div class="text-3xl text-bold text-orange-500 m-4">
+    BLOG
+  </div>
   <div>
     Find with Tag
     <input

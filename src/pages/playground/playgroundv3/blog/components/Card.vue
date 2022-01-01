@@ -12,7 +12,7 @@
         </div>
       </div>
 
-      <div class="border-emerald-400  border-1 m-3 p-1 rounded-md">
+      <div class="border-emerald-400  border-1 mx-16 text-sm p-1 rounded-md">
         <slot name="description" />
       </div>
     </div>

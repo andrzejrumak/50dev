@@ -9,6 +9,7 @@ button:
   go: GO
   home: Home
   kasa: money
+  pinia: Playground for Vue 3 with pinia store
   toggle_dark: Toggle dark mode
   toggle_langs: Change languages
 intro:

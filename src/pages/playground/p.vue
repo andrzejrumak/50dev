@@ -24,5 +24,12 @@ const router = useRouter()
     >
       {{ t('button.Playgroundv2') }} <map:playground />
     </router-link>
+    <router-link
+      class="icon-btn mx-2"
+      to="/playground/pinia/pinia"
+      :title="t('button.Playgroundv2')"
+    >
+      {{ t('button.pinia') }} <map:playground />
+    </router-link>
   </div>
 </template>

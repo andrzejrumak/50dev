@@ -11,6 +11,7 @@ button:
   diary: Dziennik
   go: Idź
   home: Home
+  pinia: Plac zabaw dla Vue 3 z storem pinia
   toggle_dark: Zmień na ciemny
   toggle_langs: Zmień język
 intro:

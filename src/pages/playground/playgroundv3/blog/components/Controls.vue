@@ -1,16 +1,16 @@
 <template>
-  <div class="text-3xl p-2 border-orange-500 border-1 ">
+  <div class="text-3xl p-3 mx-4 text-sm border-orange-500 border-1 rounded-md ">
     <router-link class="icon-btn mx-2" :to="`/locales/${locale}/blog/${post.r}`">
       <button class="p-1 border-orange-500 border-1 rounded-md">
         {{ t('read') }}
       </button>
     </router-link>
   </div>
-  <div class="text-3xl p-2 border-orange-500 border-1 ">
+  <!-- <div class="text-3xl p-2 border-orange-500 border-1 ">
     <button class="p-1 border-orange-500 border-1 rounded-md" @click="click">
       Like
     </button> {{ post.likes }}
-  </div>
+  </div> -->
   <div>
     <hashtag
       v-for="hashtag in post.hashtags"
